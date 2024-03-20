@@ -1,0 +1,8 @@
+Arrays are collection of multiple variables.
+They allow us to store multiple values in one variable
+
+String[] names ={"Lana","Ana","Maggy","Matt","James"};
+
+    //Enhanced for loop
+    for(String n:names) {
+        System.out.println(n);

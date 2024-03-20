@@ -1,0 +1,13 @@
+Break :
+break keyword breaks the loop
+we always use break keyword with if condition once the condition is met
+it stops the loop even if there are still iterations remaining
+    if we use break we can save a lot of unnecessary processing
+    by terminating the loop once the goal is complete
+
+Continue:
+Continue keyword is used to skip unnecessary calculation.
+if an element meets a condition that element is skipped and
+move to the next element
+
+why should we use?
